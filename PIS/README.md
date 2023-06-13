@@ -1,6 +1,7 @@
 ## Music Catalog
 The project would show about music.
 The table would display the album title, artist, year of release, genre and track list.
+![image](https://github.com/PBraticic/PIS/assets/115488426/b9a092f0-403e-4f25-832f-4d4381edb47d)
 
 
 ## Features

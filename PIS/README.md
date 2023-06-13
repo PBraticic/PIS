@@ -14,12 +14,12 @@ Application is run by docker
 #### Creating a docker image
 ```sh
 cd PIS
-docker build -t musiccatalog -f ./Dockerfile .
+docker build -t musicatalog -f ./Dockerfile .
 ```
 
 #### Running the docker image
 ```sh
-docker run -p 5000:5000 filmlist
+docker run -p 5000:5000 musicatalog
 ```
 
 ## Running the frontend
